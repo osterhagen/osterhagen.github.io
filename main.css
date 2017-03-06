@@ -23,7 +23,7 @@ h1 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: lighter;
   color: white;
-  animation: pulse 5s;
+  animation: pulse 9s;
 }
 
 @keyframes pulse {
